@@ -39,3 +39,8 @@ heart-disease-prediction-ml/
 - Hyperparameter tuning (GridSearchCV)  
 - Use of advanced models (XGBoost)  
 - Deployment using Streamlit  
+## ⚙️ Hyperparameter Tuning
+- Applied GridSearchCV to optimize Random Forest model  
+- Best parameter: max_depth = 10  
+- Improved generalization and reduced overfitting
+## Cross-validation accuracy: ~91.9%
