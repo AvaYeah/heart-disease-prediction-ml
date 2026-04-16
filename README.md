@@ -15,7 +15,7 @@ This project develops machine learning models to predict the risk of heart disea
 ## 📊 Results
 - Logistic Regression Accuracy: ~80%  
 - Random Forest Accuracy: ~98% (overfitting observed)  
-- Tuned Random Forest (max_depth=5): ~88%  
+- Tuned Random Forest (optimized max_depth=10): ~88% 
 - Cross-validation Accuracy: ~91.9%  
 
 ## 🔍 Key Insights
